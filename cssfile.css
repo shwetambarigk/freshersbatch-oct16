@@ -3,9 +3,15 @@
 <head>
 <style>
 p {
+<<<<<<< HEAD
   color: orange;
   text-align: center;
 }
+=======
+  color: red;
+  text-align: center;
+} 
+>>>>>>> css-assignments
 </style>
 </head>
 <body>
@@ -14,4 +20,8 @@ p {
 <p>These paragraphs are styled with CSS.</p>
 
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> css-assignments
